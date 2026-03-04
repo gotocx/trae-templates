@@ -7,7 +7,7 @@
 
 A collection of high-quality, community-maintained project templates and configuration files for TRAE IDE. These templates are designed to help you bootstrap new projects quickly with best practices built-in.
 
-[中文说明](./README.zh-CN.md)
+[English](./README.md) | [中文](./README.zh-CN.md)
 
 ## Quickstart
 
@@ -73,6 +73,8 @@ We welcome contributions! If you have a useful template or improvement:
 3. Submit a Pull Request.
 
 Please ensure your template includes a detailed `README.md` explaining how to use it.
+
+👉 For detailed contribution guidelines, see **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 
 ## Disclaimer
 

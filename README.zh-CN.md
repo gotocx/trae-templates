@@ -7,7 +7,7 @@
 
 TRAE 社区维护的高质量项目模板与配置文件集合。这些模板旨在帮助开发者使用最佳实践快速启动新项目。
 
-[English README](./README.md)
+[English](./README.md) | [中文](./README.zh-CN.md)
 
 ## 快速开始
 
@@ -73,6 +73,8 @@ TRAE 社区维护的高质量项目模板与配置文件集合。这些模板旨
 3. 提交 Pull Request。
 
 请确保你的模板包含详细的 `README.md`，说明如何使用它。
+
+👉 详细的贡献指南请查看 **[CONTRIBUTING.md](./CONTRIBUTING.md)**。
 
 ## 免责声明
 
