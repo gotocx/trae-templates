@@ -63,6 +63,7 @@ A collection of high-quality, community-maintained project templates and configu
 | **[Git Ignore](./templates/tools-devops/gitignore)** | A collection of `.gitignore` templates for various languages and environments. | Git version control |
 | **[Editor Config](./templates/tools-devops/editor-config)** | Standard `.editorconfig` to maintain consistent coding styles across editors. | Cross-editor configuration |
 | **[Docker Compose](./templates/tools-devops/docker-compose)** | Define and run multi-container Docker applications. | Docker, DevOps |
+| **[Superpowers for TRAE Init](./templates/tools-devops/superpowers-trae-init)** | Initialize a TRAE project with adapted Superpowers rules, skills, and memory setup guidance. | TRAE, Workflow, Skills |
 
 ## Contributing
 

@@ -63,6 +63,7 @@ TRAE 社区维护的高质量项目模板与配置文件集合。这些模板旨
 | **[Git Ignore](./templates/tools-devops/gitignore)** | 适用于各种语言和环境的 `.gitignore` 模板集合。 | Git 版本控制 |
 | **[Editor Config](./templates/tools-devops/editor-config)** | 标准的 `.editorconfig` 配置，用于在不同编辑器间保持代码风格一致。 | 跨编辑器配置 |
 | **[Docker Compose](./templates/tools-devops/docker-compose)** | 定义和运行多容器 Docker 应用程序。 | Docker, DevOps |
+| **[Superpowers for TRAE Init](./templates/tools-devops/superpowers-trae-init)** | 使用改造后的 Superpowers 规则、技能和记忆说明初始化 TRAE 项目。 | TRAE、工作流、技能 |
 
 ## 贡献指南
 
